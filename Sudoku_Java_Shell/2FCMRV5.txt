@@ -1,0 +1,39 @@
+Number of variables : 17
+PASS : 23971285:Number of variables : 17
+PASS : 116880911:Number of variables : 17
+PASS : 77569507:Number of variables : 17
+Number of variables : 17
+Number of variables : 17
+PASS : 3250273:Number of variables : 17
+PASS : 6614087:Number of variables : 17
+PASS : 17169391:Number of variables : 17
+Number of variables : 17
+Number of variables : 17
+PASS : 17774722:Number of variables : 17
+Number of variables : 17
+PASS : 363520238:Number of variables : 18
+PASS : 2238080:Number of variables : 18
+PASS : 15551629:Number of variables : 18
+Number of variables : 18
+PASS : 53046408:Number of variables : 18
+PASS : 204408861:Number of variables : 18
+PASS : 16789373:Number of variables : 18
+PASS : 138945684:Number of variables : 18
+Number of variables : 18
+PASS : 3238626:Number of variables : 18
+PASS : 13858017:Number of variables : 18
+Number of variables : 18
+Number of variables : 18
+PASS : 2056896:Number of variables : 22
+PASS : 8209319:Number of variables : 22
+PASS : 30290001:Number of variables : 22
+PASS : 42170504:Number of variables : 22
+PASS : 2092045:Number of variables : 22
+PASS : 3261408:Number of variables : 22
+PASS : 2517469:Number of variables : 22
+Number of variables : 22
+PASS : 2672191:Number of variables : 22
+PASS : 3150160:Number of variables : 22
+PASS : 2537725:Number of variables : 22
+PASS : 2068920:Number of variables : 22
+PASS : 7366581:Number of variables : 22

@@ -1,0 +1,93 @@
+Number of variables : 15
+PASS
+329104
+Number of variables : 15
+PASS
+173601
+Number of variables : 15
+PASS
+138567
+Number of variables : 15
+PASS
+208735
+Number of variables : 15
+PASS
+266153
+Number of variables : 15
+PASS
+496694
+Number of variables : 15
+PASS
+213548
+Number of variables : 15
+PASS
+129218
+Number of variables : 15
+PASS
+152704
+Number of variables : 15
+PASS
+140133
+Number of variables : 16
+PASS
+462295041
+Number of variables : 16
+PASS
+226546
+Number of variables : 16
+PASS
+254568
+Number of variables : 16
+PASS
+131493
+Number of variables : 16
+PASS
+111803
+Number of variables : 16
+Failed to find a solution
+Number of variables : 16
+PASS
+525326
+Number of variables : 16
+Number of variables : 16
+PASS
+912745
+Number of variables : 16
+PASS
+744518
+Number of variables : 18
+PASS
+206900150
+Number of variables : 18
+PASS
+135986
+Number of variables : 18
+PASS
+1339409
+Number of variables : 18
+PASS
+153343
+Number of variables : 18
+PASS
+232239
+Number of variables : 18
+PASS
+960024
+Number of variables : 18
+PASS
+10268
+Number of variables : 18
+PASS
+213906
+Number of variables : 18
+Number of variables : 18
+PASS
+124715
+Number of variables : 19
+PASS
+125250
+Number of variables : 19
+PASS
+158368
+Number of variables : 19
+Number of variables : 19

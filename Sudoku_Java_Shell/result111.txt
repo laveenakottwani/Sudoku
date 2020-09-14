@@ -1,0 +1,23 @@
+Number of variables : 30
+Number of variables : 30
+PASS : 7148705:Number of variables : 30
+Number of variables : 30
+Number of variables : 30
+PASS : 26602069:Number of variables : 30
+PASS : 6118810:Number of variables : 30
+PASS : 2141774:Number of variables : 30
+Number of variables : 30
+PASS : 7228200:Number of variables : 30
+Number of variables : 31
+Number of variables : 31
+Number of variables : 31
+Number of variables : 31
+Number of variables : 31
+Number of variables : 31
+PASS : 2675130:Number of variables : 31
+Number of variables : 31
+Number of variables : 31
+Number of variables : 31
+PASS : 2013107:Number of variables : 32
+PASS : 7129213:Number of variables : 32
+PASS : 39078479:

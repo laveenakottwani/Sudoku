@@ -1,0 +1,98 @@
+Number of variables : 18
+Number of variables : 18
+PASS : 108988349:Number of variables : 18
+PASS : 130606:Number of variables : 18
+PASS : 7341251:Number of variables : 18
+PASS : 129309:Number of variables : 18
+PASS : 250199:Number of variables : 18
+Number of variables : 18
+PASS : 533137:Number of variables : 18
+PASS : 483305:Number of variables : 18
+PASS : 86019632:Number of variables : 18
+PASS : 245426:Number of variables : 18
+PASS : 147284:Number of variables : 18
+PASS : 212788:Number of variables : 18
+Number of variables : 18
+PASS : 154451:Number of variables : 18
+PASS : 112530:Number of variables : 18
+Failed to find a solution : 0 : Number of variables : 19
+PASS : 304144:Number of variables : 19
+PASS : 160068:Number of variables : 19
+PASS : 200688:Number of variables : 19
+PASS : 16802562:Number of variables : 19
+PASS : 154592:Number of variables : 19
+PASS : 107813:Number of variables : 19
+PASS : 179406:Number of variables : 19
+PASS : 111942:Number of variables : 19
+PASS : 12011394:Number of variables : 19
+PASS : 124615:Number of variables : 19
+PASS : 129160:Number of variables : 19
+PASS : 120620:Number of variables : 19
+PASS : 2752335:Number of variables : 19
+PASS : 139134:Number of variables : 19
+PASS : 2363538:Number of variables : 19
+Failed to find a solution : 0 : Number of variables : 20
+PASS : 3686496:Number of variables : 20
+Number of variables : 20
+PASS : 2973772:Number of variables : 20
+PASS : 912476:Number of variables : 20
+PASS : 3366007:Number of variables : 20
+PASS : 298946776:Number of variables : 20
+PASS : 1298248:Number of variables : 20
+PASS : 133400:Number of variables : 20
+PASS : 51277205:Number of variables : 20
+PASS : 2596645:Number of variables : 20
+PASS : 3481555:Number of variables : 20
+PASS : 3469577:Number of variables : 20
+PASS : 1395508:Number of variables : 20
+Number of variables : 20
+PASS : 964896:Number of variables : 20
+PASS : 162694:Number of variables : 21
+PASS : 122072:Number of variables : 21
+Number of variables : 21
+PASS : 453794:Number of variables : 21
+Number of variables : 21
+PASS : 1229607:Number of variables : 21
+PASS : 1207798:Number of variables : 21
+Failed to find a solution : 0 : Number of variables : 21
+PASS : 280341:Number of variables : 21
+PASS : 422424:Number of variables : 21
+Failed to find a solution : 0 : Number of variables : 21
+PASS : 175640:Number of variables : 21
+PASS : 460266:Number of variables : 21
+Failed to find a solution : 0 : Number of variables : 21
+PASS : 161833:Number of variables : 21
+Number of variables : 21
+PASS : 22915182:Number of variables : 22
+PASS : 12189063:Number of variables : 22
+Failed to find a solution : 0 : Number of variables : 22
+PASS : 12627181:Number of variables : 22
+PASS : 240867:Number of variables : 22
+Number of variables : 22
+PASS : 8143613:Number of variables : 22
+Failed to find a solution : 0 : Number of variables : 22
+PASS : 117685:Number of variables : 22
+PASS : 491649:Number of variables : 22
+Number of variables : 22
+PASS : 120402:Number of variables : 22
+Failed to find a solution : 0 : Number of variables : 22
+PASS : 516492:Number of variables : 22
+Failed to find a solution : 0 : Number of variables : 22
+Failed to find a solution : 0 : Number of variables : 22
+Number of variables : 23
+PASS : 229339:Number of variables : 23
+PASS : 14550656:Number of variables : 23
+Failed to find a solution : 0 : Number of variables : 23
+Failed to find a solution : 0 : Number of variables : 23
+Failed to find a solution : 0 : Number of variables : 23
+Failed to find a solution : 0 : Number of variables : 23
+PASS : 471119:Number of variables : 23
+PASS : 188191:Number of variables : 23
+PASS : 183386:Number of variables : 23
+PASS : 409347:Number of variables : 23
+Failed to find a solution : 0 : Number of variables : 23
+PASS : 139467:Number of variables : 23
+Failed to find a solution : 0 : Number of variables : 23
+Failed to find a solution : 0 : Number of variables : 23
+Failed to find a solution : 0 : Number of variables : 23
+PASS : 339135:

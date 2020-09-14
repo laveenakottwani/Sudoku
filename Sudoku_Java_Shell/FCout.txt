@@ -1,0 +1,161 @@
+Number of variables : 19
+PASS
+108147
+Number of variables : 19
+PASS
+126352
+Number of variables : 19
+Failed to find a solution
+Number of variables : 19
+Failed to find a solution
+Number of variables : 19
+PASS
+176631
+Number of variables : 19
+PASS
+130683
+Number of variables : 19
+Failed to find a solution
+Number of variables : 19
+PASS
+137083
+Number of variables : 19
+PASS
+106820
+Number of variables : 19
+PASS
+104899
+Number of variables : 18
+PASS
+105342
+Number of variables : 18
+PASS
+104889
+Number of variables : 18
+PASS
+637837
+Number of variables : 18
+PASS
+114612
+Number of variables : 18
+PASS
+126288
+Number of variables : 18
+PASS
+116264
+Number of variables : 18
+PASS
+403114
+Number of variables : 18
+PASS
+107662
+Number of variables : 18
+PASS
+199342
+Number of variables : 18
+Failed to find a solution
+Number of variables : 20
+PASS
+119496
+Number of variables : 20
+Failed to find a solution
+Number of variables : 20
+PASS
+124612
+Number of variables : 20
+PASS
+132731
+Number of variables : 20
+PASS
+117336
+Number of variables : 20
+PASS
+3253979
+Number of variables : 20
+PASS
+121488
+Number of variables : 20
+PASS
+120172
+Number of variables : 20
+PASS
+115275
+Number of variables : 20
+PASS
+164660
+Number of variables : 21
+PASS
+122390
+Number of variables : 21
+PASS
+116913
+Number of variables : 21
+PASS
+109551
+Number of variables : 21
+Failed to find a solution
+Number of variables : 21
+Failed to find a solution
+Number of variables : 21
+Failed to find a solution
+Number of variables : 21
+PASS
+4542645
+Number of variables : 21
+PASS
+102889
+Number of variables : 21
+PASS
+117671
+Number of variables : 21
+PASS
+105433
+Number of variables : 22
+PASS
+106494
+Number of variables : 22
+PASS
+393001
+Number of variables : 22
+Failed to find a solution
+Number of variables : 22
+PASS
+113237
+Number of variables : 22
+Failed to find a solution
+Number of variables : 22
+PASS
+96036
+Number of variables : 22
+Failed to find a solution
+Number of variables : 22
+Failed to find a solution
+Number of variables : 22
+Failed to find a solution
+Number of variables : 22
+PASS
+108154
+Number of variables : 23
+Failed to find a solution
+Number of variables : 23
+PASS
+171729
+Number of variables : 23
+Failed to find a solution
+Number of variables : 23
+PASS
+477961
+Number of variables : 23
+Failed to find a solution
+Number of variables : 23
+Failed to find a solution
+Number of variables : 23
+Failed to find a solution
+Number of variables : 23
+Failed to find a solution
+Number of variables : 23
+PASS
+117229
+Number of variables : 23
+PASS
+281482

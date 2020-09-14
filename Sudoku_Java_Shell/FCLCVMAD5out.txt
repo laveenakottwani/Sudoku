@@ -1,0 +1,27 @@
+Number of variables : 19
+Number of variables : 19
+PASS : 3497901:Number of variables : 19
+Number of variables : 19
+Number of variables : 19
+PASS : 9108857:Number of variables : 19
+PASS : 2409348:Number of variables : 19
+PASS : 12204078:Number of variables : 19
+PASS : 42841397:Number of variables : 19
+PASS : 2850692:Number of variables : 19
+PASS : 4596413:Number of variables : 19
+Number of variables : 19
+PASS : 2291816:Number of variables : 19
+Number of variables : 20
+Number of variables : 20
+Number of variables : 20
+PASS : 5030421:Number of variables : 20
+PASS : 407963013:Number of variables : 20
+Number of variables : 20
+PASS : 23523116:Number of variables : 20
+PASS : 4759044:Number of variables : 20
+Number of variables : 20
+PASS : 207101072:Number of variables : 20
+PASS : 160684759:Number of variables : 20
+PASS : 7013108:Number of variables : 20
+Number of variables : 20
+PASS : 405055892:

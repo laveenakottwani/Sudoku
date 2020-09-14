@@ -1,0 +1,83 @@
+[?1049h[?1h=[1;54r[?12;25h[?12l[?25h[27m[m[H[2J[?25l[54;1H"recurse.sh" 14L, 254C[1;1H[34m#!/bin/bash[m
+
+
+[38;5;130mfor[m var [38;5;130min[m [35m{[m[31m19[m,[31m20[m,[31m21[m[35m}[m
+[38;5;130mdo[6;9Hfor[m i [38;5;130min[m [35m{0[m..9[35m}[m[7;9H[38;5;130mdo[8;17Hecho[m[31m [m[38;5;130m"[m[31mNumber of variables : [m[35m$var[m[38;5;130m"[m[9;17Hpython ../Sudoku_Generator/board_generator.py tester [31m1[m [31m3[m [31m3[m [35m$var[m[10;17H[36mtemp[m=[38;5;130m"[m[31mtester_0.txt[m[38;5;130m"[m[11;17Htimeout [31m600[m java [35m-jar[m bin/Sudoku.jar [35m$temp[m[12;17H[38;5;130mrm[m [38;5;130m-f[m [35m$temp[m[13;9H[38;5;130mdone
+done[m
+[94m~                                                                                                                                                                                  [16;1H~                                                                                                                                                                                  [17;1H~                                                                                                                                                                                  [18;1H~                                                                                                                                                                                  [19;1H~                                                                                                                                                                                  [20;1H~                                                                                                                                                                                  [21;1H~                                                                                                                                                                                  [22;1H~                                                                                                                                                                                  [23;1H~                                                                                                                                                                                  [24;1H~                                                                                                                                                                                  [25;1H~                                                                                                                                                                                  [26;1H~                                                                                                                                                                                  [27;1H~                                                                                                                                                                                  [28;1H~                                                                                                                                                                                  [29;1H~                                                                                                                                                                                  [30;1H~                                                                                                                                                                                  [31;1H~                                                                                                                                                                                  [32;1H~                                                                                                                                                                                  [33;1H~                                                                                                                                                                                  [34;1H~                                                                                                                                                                                  [35;1H~                                                                                                                                                                                  [36;1H~                                                                                                                                                                                  [37;1H~                                                                                                                                                                                  [38;1H~                                                                                                                                                                                  [39;1H~                                                                                                                                                                                  [40;1H~                                                                                                                                                                                  [41;1H~                                                                                                                                                                                  [42;1H~                                                                                                                                                                                  [43;1H~                                                                                                                                                                                  [44;1H~                                                                                                                                                                                  [45;1H~                                                                                                                                                                                  [46;1H~                                                                                                                                                                                  [47;1H~                                                                                                                                                                                  [48;1H~                                                                                                                                                                                  [49;1H~                                                                                                                                                                                  [50;1H~                                                                                                                                                                                  [51;1H~                                                                                                                                                                                  [52;1H~                                                                                                                                                                                  [53;1H~                                                                                                                                                                                  [m[54;162H6,2-9[9CAll[6;9H[?12l[?25h[?25l[54;1H[97m[41mE388: Couldn't find definition[m[54;162H[K[54;162H6,2-9[9CAll[6;9H[?12l[?25h[?25l[54;1HType  :quit<Enter>  to exit Vim[54;162H[K[54;162H6,2-9[9CAll[6;9H[?12l[?25h[?25l[54;162H[K[54;162H6,2-9[9CAll[6;9H[?12l[?25h[?25l[54;162H[K[54;162H6,2-9[9CAll[6;9H[?12l[?25h[?25l[54;162H[K[54;162H6,2-9[9CAll[6;9H[?12l[?25h[?25l[54;162H[K[54;162H6,2-9[9CAll[6;9H[?12l[?25h[?25l[54;1H[1mrecording[m[54;10H[K[54;162H6,2-9[9CAll[6;9H[?12l[?25h[?25l[54;1H[K[54;162H6,2-9[9CAll[6;9H[?12l[?25h[?25l[54;1H[1mrecording[m[54;162H[K[54;162H6,2-9[9CAll[6;9H[?12l[?25h[?25l[54;1H[K[54;162H6,2-9[9CAll[6;9H[?12l[?25h[?25l[54;162H7[7;9H[?12l[?25h[?25l[54;162H8,3-17[8;17H[?12l[?25h[?25l[54;162H9[9;17H[?12l[?25h[?25l[54;162H10,3-17[10;17H[?12l[?25h[?25l[54;163H1[11;17H[?12l[?25h[?25l[54;163H2[12;17H[?12l[?25h[?25l[54;1HType  :quit<Enter>  to exit Vim[54;162H[K[54;162H12,3-17[7CAll[12;17H[?12l[?25h[?25l[54;162H[K[54;162H12,3-17[7CAll[12;17H[?12l[?25h[?25l[54;162H[K[54;162H12,3-17[7CAll[12;17H[?12l[?25h[?25l[54;162H[K[54;162H12,3-17[7CAll[12;17H[?12l[?25h[?25l[54;163H4,1   [14;1H[?12l[?25h[?25l[54;1H[K[54;1H:[?12l[?25hq[?25l[?12l[?25h[?25l[54;1H[K[54;1H[?1l>[?12l[?25h[?1049lNumber of variables : 19
+PASS
+114031
+Number of variables : 19
+Number of variables : 19
+Number of variables : 19
+PASS
+3268018
+Number of variables : 19
+PASS
+168114788
+Number of variables : 19
+PASS
+126085
+Number of variables : 19
+PASS
+159558
+Number of variables : 19
+Failed to find a solution
+Number of variables : 19
+Number of variables : 19
+PASS
+1011998
+Number of variables : 20
+PASS
+299007
+Number of variables : 20
+PASS
+114020
+Number of variables : 20
+PASS
+213739271
+Number of variables : 20
+PASS
+356232
+Number of variables : 20
+PASS
+122598
+Number of variables : 20
+Failed to find a solution
+Number of variables : 20
+PASS
+123236
+Number of variables : 20
+Failed to find a solution
+Number of variables : 20
+PASS
+120986
+Number of variables : 20
+PASS
+116281
+Number of variables : 21
+PASS
+164493
+Number of variables : 21
+PASS
+11178859
+Number of variables : 21
+PASS
+352005
+Number of variables : 21
+Number of variables : 21
+PASS
+163820
+Number of variables : 21
+PASS
+339642
+Number of variables : 21
+PASS
+654763
+Number of variables : 21
+Failed to find a solution
+Number of variables : 21
+PASS
+53854845
+Number of variables : 21
+Failed to find a solution

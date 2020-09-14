@@ -1,0 +1,228 @@
+Number of variables : 0
+PASS
+125387
+Number of variables : 0
+PASS
+129668
+Number of variables : 0
+PASS
+114421
+Number of variables : 0
+PASS
+177604
+Number of variables : 0
+PASS
+137073
+Number of variables : 0
+PASS
+117790
+Number of variables : 0
+PASS
+172083
+Number of variables : 0
+PASS
+115839
+Number of variables : 0
+PASS
+121012
+Number of variables : 0
+PASS
+117817
+Number of variables : 5
+PASS
+150093
+Number of variables : 5
+PASS
+113709
+Number of variables : 5
+PASS
+135999
+Number of variables : 5
+PASS
+125497
+Number of variables : 5
+PASS
+128760
+Number of variables : 5
+PASS
+123797
+Number of variables : 5
+PASS
+122776
+Number of variables : 5
+PASS
+128270
+Number of variables : 5
+PASS
+122307
+Number of variables : 5
+PASS
+132408
+Number of variables : 10
+PASS
+146350
+Number of variables : 10
+PASS
+117821
+Number of variables : 10
+PASS
+140602
+Number of variables : 10
+PASS
+122679
+Number of variables : 10
+PASS
+125477
+Number of variables : 10
+PASS
+122740
+Number of variables : 10
+PASS
+142666
+Number of variables : 10
+PASS
+121608
+Number of variables : 10
+PASS
+118281
+Number of variables : 10
+PASS
+152633
+Number of variables : 15
+PASS
+108627
+Number of variables : 15
+PASS
+141160
+Number of variables : 15
+PASS
+112949
+Number of variables : 15
+PASS
+155383
+Number of variables : 15
+PASS
+4085333
+Number of variables : 15
+PASS
+115990
+Number of variables : 15
+PASS
+119795
+Number of variables : 15
+PASS
+154163
+Number of variables : 15
+PASS
+149413
+Number of variables : 15
+PASS
+120924
+Number of variables : 20
+Failed to find a solution
+Number of variables : 20
+PASS
+114571
+Number of variables : 20
+PASS
+128677
+Number of variables : 20
+PASS
+118946
+Number of variables : 20
+PASS
+150126
+Number of variables : 20
+Failed to find a solution
+Number of variables : 20
+PASS
+156021
+Number of variables : 20
+PASS
+110540
+Number of variables : 20
+Failed to find a solution
+Number of variables : 20
+PASS
+114062
+Number of variables : 25
+Failed to find a solution
+Number of variables : 25
+Failed to find a solution
+Number of variables : 25
+Failed to find a solution
+Number of variables : 25
+Failed to find a solution
+Number of variables : 25
+Failed to find a solution
+Number of variables : 25
+PASS
+301000
+Number of variables : 25
+Failed to find a solution
+Number of variables : 25
+Failed to find a solution
+Number of variables : 25
+Failed to find a solution
+Number of variables : 25
+Failed to find a solution
+Number of variables : 30
+Failed to find a solution
+Number of variables : 30
+Failed to find a solution
+Number of variables : 30
+Failed to find a solution
+Number of variables : 30
+Failed to find a solution
+Number of variables : 30
+Failed to find a solution
+Number of variables : 30
+Failed to find a solution
+Number of variables : 30
+Failed to find a solution
+Number of variables : 30
+Failed to find a solution
+Number of variables : 30
+Failed to find a solution
+Number of variables : 30
+Failed to find a solution
+Number of variables : 35
+Failed to find a solution
+Number of variables : 35
+Failed to find a solution
+Number of variables : 35
+Failed to find a solution
+Number of variables : 35
+Failed to find a solution
+Number of variables : 35
+Failed to find a solution
+Number of variables : 35
+Failed to find a solution
+Number of variables : 35
+Failed to find a solution
+Number of variables : 35
+Failed to find a solution
+Number of variables : 35
+Failed to find a solution
+Number of variables : 35
+Failed to find a solution
+Number of variables : 40
+Failed to find a solution
+Number of variables : 40
+Failed to find a solution
+Number of variables : 40
+Failed to find a solution
+Number of variables : 40
+Failed to find a solution
+Number of variables : 40
+Failed to find a solution
+Number of variables : 40
+Failed to find a solution
+Number of variables : 40
+Failed to find a solution
+Number of variables : 40
+Failed to find a solution
+Number of variables : 40
+Failed to find a solution
+Number of variables : 40
+Failed to find a solution

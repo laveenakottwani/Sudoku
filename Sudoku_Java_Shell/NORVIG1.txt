@@ -1,0 +1,31 @@
+Number of variables : 19
+Failed to find a solution : 0 : Number of variables : 19
+Failed to find a solution : 0 : Number of variables : 19
+PASS : 411186:Number of variables : 19
+PASS : 202665:Number of variables : 19
+PASS : 277762:Number of variables : 19
+PASS : 217452:Number of variables : 19
+PASS : 244761:Number of variables : 19
+Failed to find a solution : 0 : Number of variables : 19
+PASS : 349998:Number of variables : 19
+PASS : 500016:Number of variables : 20
+PASS : 214327:Number of variables : 20
+Failed to find a solution : 0 : Number of variables : 20
+Failed to find a solution : 0 : Number of variables : 20
+PASS : 218640:Number of variables : 20
+Failed to find a solution : 0 : Number of variables : 20
+PASS : 688633:Number of variables : 20
+PASS : 265339:Number of variables : 20
+PASS : 466510:Number of variables : 20
+Failed to find a solution : 0 : Number of variables : 20
+Failed to find a solution : 0 : Number of variables : 21
+Failed to find a solution : 0 : Number of variables : 21
+Failed to find a solution : 0 : Number of variables : 21
+PASS : 261704:Number of variables : 21
+PASS : 213105:Number of variables : 21
+Failed to find a solution : 0 : Number of variables : 21
+Failed to find a solution : 0 : Number of variables : 21
+Failed to find a solution : 0 : Number of variables : 21
+Failed to find a solution : 0 : Number of variables : 21
+Failed to find a solution : 0 : Number of variables : 21
+PASS : 184949:

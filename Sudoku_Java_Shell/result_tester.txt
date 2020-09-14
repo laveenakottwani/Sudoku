@@ -1,0 +1,100 @@
+Number of variables : 0
+Creating world number: 0.
+tester_0.txt
+PASS
+133203
+Number of variables : 0
+Creating world number: 0.
+tester_0.txt
+PASS
+131939
+Number of variables : 0
+Creating world number: 0.
+tester_0.txt
+PASS
+122187
+Number of variables : 0
+Creating world number: 0.
+tester_0.txt
+PASS
+124832
+Number of variables : 0
+Creating world number: 0.
+tester_0.txt
+PASS
+123348
+Number of variables : 0
+Creating world number: 0.
+tester_0.txt
+PASS
+128527
+Number of variables : 0
+Creating world number: 0.
+tester_0.txt
+PASS
+120029
+Number of variables : 0
+Creating world number: 0.
+tester_0.txt
+PASS
+121647
+Number of variables : 0
+Creating world number: 0.
+tester_0.txt
+PASS
+120797
+Number of variables : 0
+Creating world number: 0.
+tester_0.txt
+PASS
+121547
+Number of variables : 5
+Creating world number: 0.
+tester_0.txt
+PASS
+114638
+Number of variables : 5
+Creating world number: 0.
+tester_0.txt
+PASS
+112873
+Number of variables : 5
+Creating world number: 0.
+tester_0.txt
+PASS
+105402
+Number of variables : 5
+Creating world number: 0.
+tester_0.txt
+PASS
+323624
+Number of variables : 5
+Creating world number: 0.
+tester_0.txt
+PASS
+159999
+Number of variables : 5
+Creating world number: 0.
+tester_0.txt
+PASS
+115983
+Number of variables : 5
+Creating world number: 0.
+tester_0.txt
+PASS
+131046
+Number of variables : 5
+Creating world number: 0.
+tester_0.txt
+PASS
+105806
+Number of variables : 5
+Creating world number: 0.
+tester_0.txt
+PASS
+109233
+Number of variables : 5
+Creating world number: 0.
+tester_0.txt
+PASS
+166408

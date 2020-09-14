@@ -1,0 +1,230 @@
+../Sudoku_Generator/0vals_0.txt
+PASS
+134622
+../Sudoku_Generator/0vals_1.txt
+PASS
+141882
+../Sudoku_Generator/0vals_2.txt
+PASS
+141616
+../Sudoku_Generator/0vals_3.txt
+PASS
+131646
+../Sudoku_Generator/0vals_4.txt
+PASS
+128727
+../Sudoku_Generator/0vals_5.txt
+PASS
+139235
+../Sudoku_Generator/0vals_6.txt
+PASS
+130392
+../Sudoku_Generator/0vals_7.txt
+PASS
+138636
+../Sudoku_Generator/0vals_8.txt
+PASS
+130862
+../Sudoku_Generator/0vals_9.txt
+PASS
+138654
+../Sudoku_Generator/5vals_0.txt
+PASS
+145433
+../Sudoku_Generator/5vals_1.txt
+PASS
+131292
+../Sudoku_Generator/5vals_2.txt
+PASS
+125493
+../Sudoku_Generator/5vals_3.txt
+PASS
+149210
+../Sudoku_Generator/5vals_4.txt
+PASS
+128212
+../Sudoku_Generator/5vals_5.txt
+PASS
+126327
+../Sudoku_Generator/5vals_6.txt
+PASS
+131949
+../Sudoku_Generator/5vals_7.txt
+PASS
+152806
+../Sudoku_Generator/5vals_8.txt
+PASS
+122429
+../Sudoku_Generator/5vals_9.txt
+PASS
+112183
+../Sudoku_Generator/10vals_0.txt
+PASS
+123658
+../Sudoku_Generator/10vals_1.txt
+PASS
+117080
+../Sudoku_Generator/10vals_2.txt
+PASS
+107905
+../Sudoku_Generator/10vals_3.txt
+PASS
+1549281
+../Sudoku_Generator/10vals_4.txt
+PASS
+164180
+../Sudoku_Generator/10vals_5.txt
+PASS
+135320
+../Sudoku_Generator/10vals_6.txt
+PASS
+266646
+../Sudoku_Generator/10vals_7.txt
+PASS
+160494
+../Sudoku_Generator/10vals_8.txt
+PASS
+135896
+../Sudoku_Generator/10vals_9.txt
+PASS
+514000
+../Sudoku_Generator/15vals_0.txt
+PASS
+1870241
+../Sudoku_Generator/15vals_1.txt
+PASS
+109288
+../Sudoku_Generator/15vals_2.txt
+PASS
+114167
+../Sudoku_Generator/15vals_3.txt
+PASS
+117616296
+../Sudoku_Generator/15vals_4.txt
+PASS
+5754875
+../Sudoku_Generator/15vals_5.txt
+PASS
+133175
+../Sudoku_Generator/15vals_6.txt
+PASS
+106978
+../Sudoku_Generator/15vals_7.txt
+PASS
+130121
+../Sudoku_Generator/15vals_8.txt
+PASS
+120734
+../Sudoku_Generator/15vals_9.txt
+PASS
+170946
+../Sudoku_Generator/20vals_0.txt
+Failed to find a solution
+../Sudoku_Generator/20vals_1.txt
+PASS
+121325
+../Sudoku_Generator/20vals_2.txt
+PASS
+104678
+../Sudoku_Generator/20vals_3.txt
+PASS
+115621
+../Sudoku_Generator/20vals_4.txt
+PASS
+1479828
+../Sudoku_Generator/20vals_5.txt
+PASS
+125317
+../Sudoku_Generator/20vals_6.txt
+PASS
+127800
+../Sudoku_Generator/20vals_7.txt
+Failed to find a solution
+../Sudoku_Generator/20vals_8.txt
+PASS
+122139
+../Sudoku_Generator/20vals_9.txt
+PASS
+107483
+../Sudoku_Generator/25vals_0.txt
+Failed to find a solution
+../Sudoku_Generator/25vals_1.txt
+Failed to find a solution
+../Sudoku_Generator/25vals_2.txt
+PASS
+105480
+../Sudoku_Generator/25vals_3.txt
+Failed to find a solution
+../Sudoku_Generator/25vals_4.txt
+PASS
+106503
+../Sudoku_Generator/25vals_5.txt
+Failed to find a solution
+../Sudoku_Generator/25vals_6.txt
+Failed to find a solution
+../Sudoku_Generator/25vals_7.txt
+Failed to find a solution
+../Sudoku_Generator/25vals_8.txt
+Failed to find a solution
+../Sudoku_Generator/25vals_9.txt
+Failed to find a solution
+../Sudoku_Generator/30vals_0.txt
+Failed to find a solution
+../Sudoku_Generator/30vals_1.txt
+Failed to find a solution
+../Sudoku_Generator/30vals_2.txt
+Failed to find a solution
+../Sudoku_Generator/30vals_3.txt
+Failed to find a solution
+../Sudoku_Generator/30vals_4.txt
+Failed to find a solution
+../Sudoku_Generator/30vals_5.txt
+Failed to find a solution
+../Sudoku_Generator/30vals_6.txt
+Failed to find a solution
+../Sudoku_Generator/30vals_7.txt
+Failed to find a solution
+../Sudoku_Generator/30vals_8.txt
+Failed to find a solution
+../Sudoku_Generator/30vals_9.txt
+Failed to find a solution
+../Sudoku_Generator/35vals_0.txt
+Failed to find a solution
+../Sudoku_Generator/35vals_1.txt
+Failed to find a solution
+../Sudoku_Generator/35vals_2.txt
+Failed to find a solution
+../Sudoku_Generator/35vals_3.txt
+Failed to find a solution
+../Sudoku_Generator/35vals_4.txt
+Failed to find a solution
+../Sudoku_Generator/35vals_5.txt
+Failed to find a solution
+../Sudoku_Generator/35vals_6.txt
+Failed to find a solution
+../Sudoku_Generator/35vals_7.txt
+Failed to find a solution
+../Sudoku_Generator/35vals_8.txt
+Failed to find a solution
+../Sudoku_Generator/35vals_9.txt
+Failed to find a solution
+../Sudoku_Generator/40vals_0.txt
+Failed to find a solution
+../Sudoku_Generator/40vals_1.txt
+Failed to find a solution
+../Sudoku_Generator/40vals_2.txt
+Failed to find a solution
+../Sudoku_Generator/40vals_3.txt
+Failed to find a solution
+../Sudoku_Generator/40vals_4.txt
+Failed to find a solution
+../Sudoku_Generator/40vals_5.txt
+Failed to find a solution
+../Sudoku_Generator/40vals_6.txt
+Failed to find a solution
+../Sudoku_Generator/40vals_7.txt
+Failed to find a solution
+../Sudoku_Generator/40vals_8.txt
+Failed to find a solution
+../Sudoku_Generator/40vals_9.txt
+Failed to find a solution

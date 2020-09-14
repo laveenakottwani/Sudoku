@@ -1,0 +1,156 @@
+Number of variables : 15
+PASS : 309774475:Number of variables : 15
+PASS : 197915357:Number of variables : 15
+PASS : 11036094:Number of variables : 15
+Number of variables : 15
+PASS : 3623696:Number of variables : 15
+PASS : 84618620:Number of variables : 20
+Number of variables : 20
+PASS : 21999821:Number of variables : 20
+PASS : 2160544:Number of variables : 20
+Number of variables : 20
+PASS : 7982725:Number of variables : 20
+PASS : 68891173:Number of variables : 15
+PASS : 43061103:Number of variables : 15
+PASS : 133710607:Number of variables : 15
+PASS : 29278505:Number of variables : 15
+PASS : 2352921:Number of variables : 15
+Number of variables : 15
+Number of variables : 20
+PASS : 94557486:Number of variables : 20
+Number of variables : 20
+PASS : 10176653:Number of variables : 20
+PASS : 40010309:Number of variables : 20
+PASS : 2466239:Number of variables : 20
+PASS : 2463143:Number of variables : 15
+PASS : 88375628:Number of variables : 15
+Number of variables : 15
+Number of variables : 15
+PASS : 153234668:Number of variables : 15
+PASS : 6707765:Number of variables : 15
+PASS : 20540245:Number of variables : 20
+PASS : 4696188:Number of variables : 20
+Number of variables : 20
+Number of variables : 20
+PASS : 92876800:Number of variables : 20
+Number of variables : 21
+PASS : 9322624:Number of variables : 21
+PASS : 30292418:Number of variables : 21
+PASS : 2114687:Number of variables : 21
+Number of variables : 21
+PASS : 2068102:Number of variables : 21
+Number of variables : 25
+PASS : 2294516:Number of variables : 25
+PASS : 2480456:Number of variables : 25
+Number of variables : 25
+PASS : 63373077:Number of variables : 25
+PASS : 2190048:Number of variables : 25
+Number of variables : 30
+PASS : 2922296:Number of variables : 30
+PASS : 168313155:Number of variables : 30
+PASS : 2036287:Number of variables : 30
+PASS : 5448675:Number of variables : 30
+PASS : 1965015:Number of variables : 30
+PASS : 9652963:Number of variables : 31
+PASS : 53524246:Number of variables : 31
+Number of variables : 31
+PASS : 7257768:Number of variables : 31
+Number of variables : 31
+PASS : 1817794:Number of variables : 31
+PASS : 2075515:Number of variables : 35
+Number of variables : 35
+Number of variables : 35
+PASS : 30697025:Number of variables : 35
+Number of variables : 35
+PASS : 2375882:Number of variables : 35
+Number of variables : 21
+PASS : 2555400:Number of variables : 21
+PASS : 2477606:Number of variables : 21
+PASS : 5788026:Number of variables : 21
+Number of variables : 21
+PASS : 2751813:Number of variables : 21
+PASS : 2116990:Number of variables : 21
+PASS : 513958331:Number of variables : 21
+PASS : 8629949:Number of variables : 21
+Number of variables : 21
+PASS : 2504692:Number of variables : 20
+PASS : 3972754:Number of variables : 20
+PASS : 14029896:Number of variables : 20
+PASS : 75182046:Number of variables : 20
+PASS : 2054531:Number of variables : 20
+Number of variables : 20
+PASS : 13542027:Number of variables : 20
+PASS : 19584769:Number of variables : 20
+PASS : 2186986:Number of variables : 20
+PASS : 3640950:Number of variables : 20
+PASS : 2321576:Number of variables : 30
+PASS : 4861155:Number of variables : 30
+PASS : 6587278:Number of variables : 30
+PASS : 6715080:Number of variables : 30
+Number of variables : 30
+PASS : 2697565:Number of variables : 30
+Number of variables : 30
+PASS : 68609181:Number of variables : 30
+PASS : 210801807:Number of variables : 30
+Number of variables : 30
+PASS : 3652770:Number of variables : 31
+Number of variables : 31
+Number of variables : 31
+PASS : 6183888:Number of variables : 31
+Number of variables : 31
+PASS : 7868107:Number of variables : 31
+Number of variables : 31
+PASS : 2395570:Number of variables : 31
+PASS : 8000314:Number of variables : 31
+Number of variables : 31
+PASS : 2889661:Number of variables : 30
+PASS : 3503041:Number of variables : 30
+PASS : 5920657:Number of variables : 30
+PASS : 3249992:Number of variables : 30
+PASS : 2902685:Number of variables : 30
+Number of variables : 30
+PASS : 36428990:Number of variables : 30
+PASS : 478419764:Number of variables : 30
+Number of variables : 30
+PASS : 53132777:Number of variables : 30
+PASS : 2120375:Number of variables : 31
+Number of variables : 31
+PASS : 3729206:Number of variables : 31
+Number of variables : 31
+PASS : 2373206:Number of variables : 31
+Number of variables : 31
+PASS : 3462292:Number of variables : 31
+PASS : 2797803:Number of variables : 31
+PASS : 2197476:Number of variables : 31
+PASS : 19065226:Number of variables : 31
+Number of variables : 32
+PASS : 2807602:Number of variables : 32
+Number of variables : 32
+PASS : 4062197:Number of variables : 32
+Number of variables : 32
+PASS : 2371747:Number of variables : 32
+PASS : 4438148:Number of variables : 32
+PASS : 123790988:Number of variables : 32
+Number of variables : 32
+Number of variables : 32
+PASS : 2358818:Number of variables : 33
+PASS : 10863698:Number of variables : 33
+Number of variables : 33
+PASS : 95364767:Number of variables : 33
+Number of variables : 33
+PASS : 2156673:Number of variables : 33
+PASS : 4445604:Number of variables : 33
+Number of variables : 33
+Number of variables : 33
+PASS : 6405030:Number of variables : 33
+PASS : 2363192:Number of variables : 35
+Number of variables : 35
+PASS : 5304208:Number of variables : 35
+PASS : 2485367:Number of variables : 35
+PASS : 5952048:Number of variables : 35
+PASS : 85625398:Number of variables : 35
+PASS : 231996479:Number of variables : 35
+PASS : 2199918:Number of variables : 35
+Number of variables : 35
+PASS : 6024243:Number of variables : 35
+PASS : 123946130:

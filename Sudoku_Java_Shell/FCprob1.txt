@@ -1,0 +1,202 @@
+Number of variables : 18
+PASS
+112886
+Number of variables : 18
+PASS
+116598
+Number of variables : 18
+PASS
+101443
+Number of variables : 18
+PASS
+179283
+Number of variables : 18
+PASS
+402802
+Number of variables : 18
+PASS
+106697
+Number of variables : 18
+PASS
+152949
+Number of variables : 18
+PASS
+109499
+Number of variables : 18
+PASS
+134705
+Number of variables : 18
+PASS
+138817
+Number of variables : 19
+PASS
+104168
+Number of variables : 19
+PASS
+103657
+Number of variables : 19
+PASS
+123562
+Number of variables : 19
+PASS
+132556
+Number of variables : 19
+PASS
+196859
+Number of variables : 19
+PASS
+115735
+Number of variables : 19
+PASS
+21412461
+Number of variables : 19
+Failed to find a solution
+Number of variables : 19
+PASS
+101284
+Number of variables : 19
+Failed to find a solution
+Number of variables : 20
+Failed to find a solution
+Number of variables : 20
+Failed to find a solution
+Number of variables : 20
+Failed to find a solution
+Number of variables : 20
+PASS
+113404
+Number of variables : 20
+PASS
+132010
+Number of variables : 20
+PASS
+125666
+Number of variables : 20
+PASS
+101548
+Number of variables : 20
+Failed to find a solution
+Number of variables : 20
+PASS
+426500
+Number of variables : 20
+PASS
+121840
+Number of variables : 21
+PASS
+110408
+Number of variables : 21
+Failed to find a solution
+Number of variables : 21
+PASS
+1843837
+Number of variables : 21
+Failed to find a solution
+Number of variables : 21
+Failed to find a solution
+Number of variables : 21
+Failed to find a solution
+Number of variables : 21
+PASS
+102185
+Number of variables : 21
+PASS
+110376
+Number of variables : 21
+Failed to find a solution
+Number of variables : 21
+PASS
+126255
+Number of variables : 22
+Failed to find a solution
+Number of variables : 22
+Failed to find a solution
+Number of variables : 22
+PASS
+98380
+Number of variables : 22
+Failed to find a solution
+Number of variables : 22
+PASS
+166999
+Number of variables : 22
+PASS
+109376
+Number of variables : 22
+Failed to find a solution
+Number of variables : 22
+PASS
+109684
+Number of variables : 22
+Failed to find a solution
+Number of variables : 22
+Failed to find a solution
+Number of variables : 23
+PASS
+105843
+Number of variables : 23
+Failed to find a solution
+Number of variables : 23
+Failed to find a solution
+Number of variables : 23
+Failed to find a solution
+Number of variables : 23
+PASS
+616974
+Number of variables : 23
+Failed to find a solution
+Number of variables : 23
+PASS
+159856
+Number of variables : 23
+PASS
+101353
+Number of variables : 23
+Failed to find a solution
+Number of variables : 23
+Failed to find a solution
+Number of variables : 24
+Failed to find a solution
+Number of variables : 24
+Failed to find a solution
+Number of variables : 24
+PASS
+227089
+Number of variables : 24
+PASS
+119288
+Number of variables : 24
+Failed to find a solution
+Number of variables : 24
+Failed to find a solution
+Number of variables : 24
+Failed to find a solution
+Number of variables : 24
+PASS
+146655
+Number of variables : 24
+Failed to find a solution
+Number of variables : 24
+Failed to find a solution
+Number of variables : 25
+Failed to find a solution
+Number of variables : 25
+PASS
+95496
+Number of variables : 25
+Failed to find a solution
+Number of variables : 25
+Failed to find a solution
+Number of variables : 25
+Failed to find a solution
+Number of variables : 25
+Failed to find a solution
+Number of variables : 25
+PASS
+207570
+Number of variables : 25
+Failed to find a solution
+Number of variables : 25
+Failed to find a solution
+Number of variables : 25
+Failed to find a solution

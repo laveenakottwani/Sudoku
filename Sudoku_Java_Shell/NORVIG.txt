@@ -1,0 +1,61 @@
+Number of variables : 18
+PASS : 212431:Number of variables : 18
+PASS : 272517:Number of variables : 18
+PASS : 256314:Number of variables : 18
+PASS : 222122:Number of variables : 18
+PASS : 331999:Number of variables : 18
+Failed to find a solution : 0 : Number of variables : 18
+PASS : 320191:Number of variables : 18
+Failed to find a solution : 0 : Number of variables : 18
+PASS : 262969:Number of variables : 18
+PASS : 245632:Number of variables : 19
+Failed to find a solution : 0 : Number of variables : 19
+PASS : 375074:Number of variables : 19
+Failed to find a solution : 0 : Number of variables : 19
+Failed to find a solution : 0 : Number of variables : 19
+Failed to find a solution : 0 : Number of variables : 19
+Failed to find a solution : 0 : Number of variables : 19
+PASS : 317186:Number of variables : 19
+Failed to find a solution : 0 : Number of variables : 19
+PASS : 255529:Number of variables : 19
+PASS : 224296:Number of variables : 20
+PASS : 254991:Number of variables : 20
+PASS : 381646:Number of variables : 20
+Failed to find a solution : 0 : Number of variables : 20
+PASS : 298514:Number of variables : 20
+Failed to find a solution : 0 : Number of variables : 20
+PASS : 191719:Number of variables : 20
+Failed to find a solution : 0 : Number of variables : 20
+Failed to find a solution : 0 : Number of variables : 20
+Failed to find a solution : 0 : Number of variables : 20
+Failed to find a solution : 0 : Number of variables : 21
+PASS : 193847:Number of variables : 21
+Failed to find a solution : 0 : Number of variables : 21
+Failed to find a solution : 0 : Number of variables : 21
+Failed to find a solution : 0 : Number of variables : 21
+PASS : 185705:Number of variables : 21
+Failed to find a solution : 0 : Number of variables : 21
+PASS : 420107:Number of variables : 21
+Failed to find a solution : 0 : Number of variables : 21
+PASS : 675172:Number of variables : 21
+Failed to find a solution : 0 : Number of variables : 22
+Failed to find a solution : 0 : Number of variables : 22
+Failed to find a solution : 0 : Number of variables : 22
+PASS : 245342:Number of variables : 22
+Failed to find a solution : 0 : Number of variables : 22
+Failed to find a solution : 0 : Number of variables : 22
+Failed to find a solution : 0 : Number of variables : 22
+Failed to find a solution : 0 : Number of variables : 22
+Failed to find a solution : 0 : Number of variables : 22
+Failed to find a solution : 0 : Number of variables : 22
+Failed to find a solution : 0 : Number of variables : 23
+Failed to find a solution : 0 : Number of variables : 23
+Failed to find a solution : 0 : Number of variables : 23
+Failed to find a solution : 0 : Number of variables : 23
+Failed to find a solution : 0 : Number of variables : 23
+Failed to find a solution : 0 : Number of variables : 23
+Failed to find a solution : 0 : Number of variables : 23
+Failed to find a solution : 0 : Number of variables : 23
+Failed to find a solution : 0 : Number of variables : 23
+Failed to find a solution : 0 : Number of variables : 23
+Failed to find a solution : 0 : 
